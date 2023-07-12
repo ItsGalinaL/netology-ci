@@ -18,7 +18,6 @@ build/
 *.ipr
 out/
 
-### NetBeans ###
 /nbproject/private/
 /nbbuild/
 /dist/
